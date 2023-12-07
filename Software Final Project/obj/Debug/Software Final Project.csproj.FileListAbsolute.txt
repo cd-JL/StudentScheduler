@@ -1,0 +1,7 @@
+C:\Users\toxic\OneDrive\Desktop\Sait\Sofware Analysis and design\Final Project\Code\Software Final Project\Software Final Project\bin\Debug\Software Final Project.exe.config
+C:\Users\toxic\OneDrive\Desktop\Sait\Sofware Analysis and design\Final Project\Code\Software Final Project\Software Final Project\bin\Debug\Software Final Project.exe
+C:\Users\toxic\OneDrive\Desktop\Sait\Sofware Analysis and design\Final Project\Code\Software Final Project\Software Final Project\bin\Debug\Software Final Project.pdb
+C:\Users\toxic\OneDrive\Desktop\Sait\Sofware Analysis and design\Final Project\Code\Software Final Project\Software Final Project\obj\Debug\Software Final Project.csproj.AssemblyReference.cache
+C:\Users\toxic\OneDrive\Desktop\Sait\Sofware Analysis and design\Final Project\Code\Software Final Project\Software Final Project\obj\Debug\Software Final Project.csproj.CoreCompileInputs.cache
+C:\Users\toxic\OneDrive\Desktop\Sait\Sofware Analysis and design\Final Project\Code\Software Final Project\Software Final Project\obj\Debug\Software Final Project.exe
+C:\Users\toxic\OneDrive\Desktop\Sait\Sofware Analysis and design\Final Project\Code\Software Final Project\Software Final Project\obj\Debug\Software Final Project.pdb

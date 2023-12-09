@@ -24,7 +24,7 @@ namespace Software_Final_Project
             waitlist = new List<string>();
         }
 
-        public void AddSchedule(int currentUserPrivilege, string scheduleID)
+        public void AddSchedule(int currentUserPrivilege, string scheduleID, string v)
         {
             if (CheckPrivilege(currentUserPrivilege))
             {

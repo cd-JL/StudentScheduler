@@ -49,5 +49,19 @@ namespace Software_Final_Project
             CoursesEnrolled = new List<string>();
             PreviousAcademicRecord = new List<string>();
         }
-    }
+
+		public Student(string firstName, string lastName, int studentId, DateTime dateAdded, int phoneNumber, string emailAddress, string secondaryEmailAddress, int emergencyContactNumber, string emergencyContactName, int healthCareNumber)
+		{
+			FirstName = firstName;
+			LastName = lastName;
+			StudentID = studentId;
+			DateAdded = dateAdded;
+			PhoneNumber = phoneNumber;
+			EmailAddress = emailAddress;
+			SecondaryEmailAddress = secondaryEmailAddress;
+			EmergencyContactNumber = emergencyContactNumber;
+			EmergencyContactName = emergencyContactName;
+			HealthCareNumber = healthCareNumber;
+		}
+	}
 }
